@@ -1,3 +1,8 @@
+This is a list of concepts that I found very useful and thought it would be worth taking note for future use as a reference.
+
+
+
+
 //CONTENT AND HTML//
 $(function() {
 1. $ ( ' l i : c o n t a i n s ( " p i n e " ) ' ) . t e x t ( ' a l mon d s ' ) ; $('li.hot').html(function() {

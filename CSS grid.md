@@ -1,0 +1,3 @@
+//CSS GRID GARDEN GAME//
+
+This game was a nice way to be able to learn how to use the "grid" system in css, though I still continue to find CSS increasingl frustrating and illogical. It seems that alot more practice is required in order to become proficient at it. I would like to be able to become more proficient overtime ONLY for the purpose of being able to fix css, change css with JavaScript, and to be able to use in a work or client project setting. Outside of this scope, I am personally not really intereswted in diving into CSS and would rather avoid it at all costs. I don't think I'll be able to avoid it altogether but I think that overtime I may be able to warm up to it more.
